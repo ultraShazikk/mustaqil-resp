@@ -101,7 +101,7 @@
             position: absolute;
             width: 40%;
             height: 404px;
-            background-color: red;
+            background: linear-gradient(180deg, rgba(254, 252, 247, 0.50) 0%, #adaaa6 55.94%);
             border-radius: 8px;
             top: 85px;
             right: 20px;
@@ -129,8 +129,8 @@
     
         .nav__blok > li > a {
             margin-left: -33px;
-            font-size: 20px;
-            color: #fff;
+            font-size: 24px;
+            color: black;
         }
     
        
